@@ -1,0 +1,6 @@
+.anchor{
+    padding-top: 85px;
+    margin-top: -85px;
+    -webkit-background-clip: content-box;
+    background-clip: content-box;
+}
